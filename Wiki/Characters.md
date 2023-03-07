@@ -27,7 +27,7 @@ However, when faced with protecting the things she dears most, Yangyang will not
       <td>
         <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/rw1.736e7979.png"
+            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/rw1.736e7979.png"
             width="300" height="300"
           />
         </p>
@@ -35,7 +35,7 @@ However, when faced with protecting the things she dears most, Yangyang will not
       <td>
         <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/head-active.ee239036.png"
+            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/head-active.ee239036.png"
           />
         </p>
       </td>
@@ -50,7 +50,7 @@ However, when faced with protecting the things she dears most, Yangyang will not
           <tr>
             <td>
               <img
-                src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/camp2-active.86837ac0.png"
+                src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/camp2-active.86837ac0.png"
                 ,
                 height="18"
               />
@@ -147,7 +147,7 @@ Wherever there is people in need, you can always find Chixia.
       <td>
         <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/rw3.22ccf032.png"
+            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/rw3.22ccf032.png"
             width="300" height="300"
           />
         </p>
@@ -155,7 +155,7 @@ Wherever there is people in need, you can always find Chixia.
       <td>
         <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/head3.a0959c9f.png"
+            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/head3.a0959c9f.png"
           />
         </p>
       </td>
@@ -170,7 +170,7 @@ Wherever there is people in need, you can always find Chixia.
           <tr>
             <td>
               <img
-                src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/camp2-active.86837ac0.png"
+                src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/camp2-active.86837ac0.png"
                 ,
                 height="18"
               />
@@ -268,7 +268,7 @@ But if there is someone in danger, Bailian never sits back and ignores it.
       <td>
         <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/rw2.bbadd72d.png"
+            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/rw2.bbadd72d.png"
             width="250" height="250"
           />
         </p>
@@ -276,7 +276,7 @@ But if there is someone in danger, Bailian never sits back and ignores it.
       <td>
         <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/head2.91528759.png"
+            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/head2.91528759.png"
           />
         </p>
       </td>
@@ -291,7 +291,7 @@ But if there is someone in danger, Bailian never sits back and ignores it.
           <tr>
             <td>
               <img
-                src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/camp2-active.86837ac0.png"
+                src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/camp2-active.86837ac0.png"
                 ,
                 height="18"
               />
