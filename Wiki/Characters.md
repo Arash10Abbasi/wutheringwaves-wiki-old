@@ -8,11 +8,15 @@
 
 <details open>
   <summary><b>Yang Yang</b></summary>
+A member of the Midnight Rangers, a young girl as gentle as breeze, capable of calming those around her.
+Rather than making herself stand out, she prefers to accompany at others' side quietly.
+Only offering necessary comfort whenever she senses the person's needs.
+However, when faced with protecting the things she dears most, Yangyang will not hesitate to convert her gentleness into blades.
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Yang Yang</h3></th>
       <th><h3 align="center">The Wind followed behid my Ears</h3></th>
+      <th><h3 align="center">Yang Yang</h3></th>
     </tr>
     <tr>
       <td>
@@ -35,35 +39,32 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
             <td>★★★★★</td>
+            <td>Rarity</td>
           </tr>
           <tr>
-            <td>Element</td>
             <td>
               <img
                 src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/camp2-active.86837ac0.png"
                 ,
                 height="18"
               />
+            <td>Element</td>
             </td>
           </tr>
           <tr>
-            <td>Level</td>
             <td>90</td>
+            <td>Level</td>
           </tr>
           <tr>
-            <td>Friendship</td>
             <td>10</td>
+            <td>Friendship</td>
           </tr>
           <tr>
-            <td>Constellation</td>
             <td>0</td>
+            <td>Constellation</td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />1 x Gilded Dreams<br />4 x Deepwood Memories<br />
-            </td>
             <td>
               <img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
@@ -92,30 +93,33 @@
               />
               Laurel Coronet<br />
             </td>
+            <td>
+              Artifacts<br />1 x Gilded Dreams<br />4 x Deepwood Memories<br />
+            </td>
           </tr>
           <tr>
+            <td>-</td>
             <td>Outfits</td>
-            <td></td>
           </tr>
         </table>
       </td>
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
             <td>The Wind followed behid my Ears</td>
+            <td>Name</td>
           </tr>
           <tr>
-            <td>Rarity</td>
             <td>★★★★★</td>
+            <td>Rarity</td>
           </tr>
           <tr>
-            <td>Level</td>
             <td>90</td>
+            <td>Level</td>
           </tr>
           <tr>
-            <td>Refinement</td>
             <td>1</td>
+            <td>Refinement</td>
           </tr>
         </table>
       </td>
@@ -125,11 +129,14 @@
 
 <details open>
   <summary><b>Shika</b></summary>
+A member of the Ministry of Development, self-proclaimed "Ally of Justice", Chixia is always seen vibrant and full of energy, soaring through the streets of Tiancheng.
+Able to turn her passion into bullets, she has unlimited enthusiasm, just like her ammunition.
+Wherever there is people in need, you can always find Chixia.
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Shika</h3></th>
       <th><h3 align="center">Another Day, Another Heroic Me</h3></th>
+      <th><h3 align="center">Shika</h3></th>
     </tr>
     <tr>
       <td>
@@ -152,11 +159,10 @@
       <td>
         <table>
           <tr>
-            <td>Rarity</td>
             <td>★★★★★</td>
+            <td>Rarity</td>
           </tr>
           <tr>
-            <td>Element</td>
             <td>
               <img
                 src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/camp2-active.86837ac0.png"
@@ -164,23 +170,21 @@
                 height="18"
               />
             </td>
+            <td>Element</td>
           </tr>
           <tr>
-            <td>Level</td>
             <td>90</td>
+            <td>Level</td>
           </tr>
           <tr>
-            <td>Friendship</td>
             <td>10</td>
+            <td>Friendship</td>
           </tr>
           <tr>
-            <td>Constellation</td>
             <td>0</td>
+            <td>Constellation</td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />1 x Gilded Dreams<br />4 x Deepwood Memories<br />
-            </td>
             <td>
               <img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
@@ -209,30 +213,33 @@
               />
               Laurel Coronet<br />
             </td>
+            <td>
+              Artifacts<br />1 x Gilded Dreams<br />4 x Deepwood Memories<br />
+            </td>
           </tr>
           <tr>
+            <td>-</td>
             <td>Outfits</td>
-            <td></td>
           </tr>
         </table>
       </td>
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
             <td>Another Day, Another Heroic Me</td>
+            <td>Name</td>
           </tr>
           <tr>
-            <td>Rarity</td>
             <td>★★★★★</td>
+            <td>Rarity</td>
           </tr>
           <tr>
-            <td>Level</td>
             <td>90</td>
+            <td>Level</td>
           </tr>
           <tr>
-            <td>Refinement</td>
             <td>1</td>
+            <td>Refinement</td>
           </tr>
         </table>
       </td>
@@ -242,18 +249,22 @@
 
 <details open>
   <summary><b>Bailian</b></summary>
+An archaeologist of the Huanglong Academy, used to exploring ruins on her own.
+Bailian worries about the unpredictability of emotions, resisting any possible changes and costs they may bring. Due to this, she sets boundaries of rationality for herself.
+She loathes getting into any kind of troubles, and insists on the rational principle of "Only Takes Responsibility for Herself".
+But if there is someone in danger, Bailian never sits back and ignores it.
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Bailian</h3></th>
       <th><h3 align="center">Pain was NOt the orginal intend of the cold</h3></th>
+      <th><h3 align="center">Bailian</h3></th>
     </tr>
     <tr>
       <td>
         <p align="center">
           <img
             src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/rw2.bbadd72d.png"
-            width="300" height="300"
+            width="250" height="250"
           />
         </p>
       </td>
@@ -273,7 +284,6 @@
             <td>★★★★★</td>
           </tr>
           <tr>
-            <td>Element</td>
             <td>
               <img
                 src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/camp2-active.86837ac0.png"
@@ -281,23 +291,21 @@
                 height="18"
               />
             </td>
+            <td>Element</td>
           </tr>
           <tr>
-            <td>Level</td>
             <td>90</td>
+            <td>Level</td>
           </tr>
           <tr>
-            <td>Friendship</td>
             <td>10</td>
+            <td>Friendship</td>
           </tr>
           <tr>
-            <td>Constellation</td>
             <td>0</td>
+            <td>Constellation</td>
           </tr>
           <tr>
-            <td>
-              Artifacts<br />1 x Gilded Dreams<br />4 x Deepwood Memories<br />
-            </td>
             <td>
               <img
                 src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_RelicIcon_15026_4.png"
@@ -326,30 +334,33 @@
               />
               Laurel Coronet<br />
             </td>
+            <td>
+              Artifacts<br />1 x Gilded Dreams<br />4 x Deepwood Memories<br />
+            </td>
           </tr>
           <tr>
             <td>Outfits</td>
-            <td></td>
+            <td>-</td>
           </tr>
         </table>
       </td>
       <td valign="top">
         <table>
           <tr>
-            <td>Name</td>
             <td>Pain was NOt the orginal intend of the cold</td>
+            <td>Name</td>
           </tr>
           <tr>
             <td>Rarity</td>
             <td>★★★★★</td>
           </tr>
           <tr>
-            <td>Level</td>
             <td>90</td>
+            <td>Level</td>
           </tr>
           <tr>
-            <td>Refinement</td>
             <td>1</td>
+            <td>Refinement</td>
           </tr>
         </table>
       </td>
