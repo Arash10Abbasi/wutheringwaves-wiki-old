@@ -2,7 +2,7 @@
 
    <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/69b00402a4e3091e8486b.jpg"
+            src="/Images/69b00402a4e3091e8486b.jpg"
           />
         </p>
 
@@ -14,7 +14,7 @@
 
    <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/842fc1100c7f84b581c58.jpg"
+            src="/Images/842fc1100c7f84b581c58.jpg"
           />
         </p>
 
@@ -31,7 +31,7 @@
 
    <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/bec5eafeb08fde26aa3d0.jpg"
+            src="/Images/bec5eafeb08fde26aa3d0.jpg"
           />
         </p>
 
@@ -55,7 +55,7 @@ Skylark نوع عجیبی از پرنده مانند Fenghuang یا عقاب ن�
 
    <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/8aba7234117b535f692c0.jpg"
+            src="/Images/8aba7234117b535f692c0.jpg"
           />
         </p>
 
@@ -63,7 +63,7 @@ Skylark نوع عجیبی از پرنده مانند Fenghuang یا عقاب ن�
 
    <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/732c65cf109111a321ed5.jpg"
+            src="/Images/732c65cf109111a321ed5.jpg"
           />
         </p>
 
@@ -90,7 +90,7 @@ Chixia ویژگی‌های شخصی متمایز مختلفی دارد، مان�
 
    <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/41fc2c4fcafb56a0f39a8.jpg"
+            src="/Images/41fc2c4fcafb56a0f39a8.jpg"
           />
         </p>
 
@@ -110,7 +110,7 @@ Chixia ویژگی‌های شخصی متمایز مختلفی دارد، مان�
 
    <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/Images/10113cdcc09ec7d5df571.jpg"
+            src="/Images/10113cdcc09ec7d5df571.jpg"
           />
         </p>
 
@@ -118,7 +118,7 @@ You'tan ظاهری مطبوع و ساده را ارائه می دهد که ظر�
 
    <p align="center">
           <img
-            src="https://github.com/Arash10Abbasi/WutheringWaves-ir/blob/main/Images/54fc8ed22ab3914b8d0d5.png"
+            src="/Images/54fc8ed22ab3914b8d0d5.png"
           />
         </p>
 
