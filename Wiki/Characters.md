@@ -7,6 +7,8 @@
 _Note: Many of these commands can be configured in the Input tab of the settings menu._
 ---
 
+<div dir="rtl" lang="fa">
+
   List of Characters
 
 <details open>
