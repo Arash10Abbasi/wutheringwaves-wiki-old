@@ -5,9 +5,9 @@
 <br />
 
   List of Characters
-</h2>
+
 <details open>
-  <summary><b>Nahida</b></summary>
+  <summary><b>Yang Yang</b></summary>
   <br />
   <table>
     <tr>
@@ -122,9 +122,8 @@
   </table>
 </details>
 
-</h2>
 <details open>
-  <summary><b>SHika</b></summary>
+  <summary><b>Shika</b></summary>
   <br />
   <table>
     <tr>
