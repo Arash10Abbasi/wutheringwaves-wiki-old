@@ -4,6 +4,9 @@
 </h3>
 <br />
 
+_Note: Many of these commands can be configured in the Input tab of the settings menu._
+---
+
   List of Characters
 
 <details open>
